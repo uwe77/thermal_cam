@@ -1,3 +1,3 @@
 #!/bin/sh
 #docker build --rm -t argnctu/colab-nbgrader .
-docker build --rm -t argnctu/thermal_cam .
+docker build --rm --progress plain -t argnctu/thermal_cam .
